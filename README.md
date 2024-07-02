@@ -3,7 +3,7 @@
 👋 ¡Hola! Soy [Fran](https://github.com/ftomevela), Apasionado de la programación y la ciberseguridad con un amplio bagaje en coordinación de equipos internacionales. Como estudiante en Campus 42 Málaga, me encuentro completamente inmerso en el mundo de la codificación, impulsado por mi propia curiosidad y un enfoque práctico para resolver problemas.
 Actualmente, compatibilizo mis estudios en 42 Málaga con cursos adicionales de Python y ciencia de datos, ampliando mis conocimientos y habilidades en áreas clave para el desarrollo de soluciones tecnológicas avanzadas. 
 
-### 🏫 Escuela 42 Proyectos
+### 🏫 Escuela 42 Málaga - Proyectos
 Una colección de mis proyectos realizados en la Escuela 42:
 
 - [Libft](https://github.com/username/proyecto1): Descripción breve del proyecto 1.
@@ -11,21 +11,15 @@ Una colección de mis proyectos realizados en la Escuela 42:
 - [get_next_line](https://github.com/username/proyecto3): Descripción breve del proyecto 3.
 <!-- Añade más proyectos según sea necesario -->
 ### 🛠️ Habilidades Técnicas
-- ![C](https://img.shields.io/badge/C-239120?style=flat-square&logo=c)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
-- ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple)
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
-- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows)
-- ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2A2B2D?style=flat-square&logo=cybersecurity)
+- ![C](https://img.shields.io/badge/C-239120?style=flat-square&logo=c) Desarrollo de software de sistemas y aplicaciones de alto rendimiento.
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) Desarrollo de scripts y automatización.
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5) - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3) Creación de interfaces web responsivas y accesibles.
+- ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2A2B2D?style=flat-square&logo=cybersecurity) Conocimientos en seguridad de la información y prácticas de protección de datos.
 
 ### 🧰 Herramientas de Desarrollo
 
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-- ![GitLab](https://img.shields.io/badge/GitLab-181717?style=flat-square&logo=gitlab)
-- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github) Control de versiones y colaboración en equipos utilizando
+- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) Desarrollo de software con un entorno de desarrollo integrado (IDE).
 
 ### 🚀 Hackatones y Eventos
 
