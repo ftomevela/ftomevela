@@ -1,6 +1,6 @@
 # 💻 Francisco Tomé Vela
 
-👋 ¡Hola! Soy [Fran](https://github.com/ftomevela), Apasionado de la programación y la ciberseguridad con un amplio bagaje en coordinación de equipos internacionales. Como estudiante en Campus 42 Málaga, me encuentro completamente inmerso en el mundo de la codificación, impulsado por mi propia curiosidad y un enfoque práctico para resolver problemas.
+👋 ¡Hola! Soy [Fran](https://github.com/ftomevela), apasionado de la programación y la ciberseguridad con un amplio bagaje en coordinación de equipos internacionales. Como estudiante en Campus 42 Málaga, me encuentro completamente inmerso en el mundo de la codificación, impulsado por mi propia curiosidad y un enfoque práctico para resolver problemas.
 Actualmente, compatibilizo mis estudios en 42 Málaga con cursos adicionales de Python y ciencia de datos, ampliando mis conocimientos y habilidades en áreas clave para el desarrollo de soluciones tecnológicas avanzadas. 
 
 ### 🏫 Escuela 42 Málaga - Proyectos
