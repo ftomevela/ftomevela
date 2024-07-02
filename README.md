@@ -6,10 +6,12 @@ Actualmente, compatibilizo mis estudios en 42 Málaga con cursos adicionales de 
 ### 🏫 Escuela 42 Málaga - Proyectos
 Una colección de mis proyectos realizados en la Escuela 42:
 
-- [Libft](https://github.com/username/proyecto1): Descripción breve del proyecto 1.
-- [ft_printf](https://github.com/username/proyecto2): Descripción breve del proyecto 2.
-- [get_next_line](https://github.com/username/proyecto3): Descripción breve del proyecto 3.
-<!-- Añade más proyectos según sea necesario -->
+- [Libft](https://github.com/ftomevela/libft): Este proyecto consiste en programar una libreria en C.
+- [ft_printf](https://github.com/ftomevela/ft_printf): Este proyecto consiste en reprogramar printf().
+- [get_next_line](https://github.com/ftomevela/get_next_line): Programar en C un programa que devuelva una linea de un file descriptor.
+- [push_swap](https://github.com/ftomevela/push_swap): Programa de ordenacion en C de un stack, con un conjunto limitado de instrucciones y utilizando el menor número posible de acciones.
+- [so_long](https://github.com/ftomevela/so_long): Mini juego 2D en C.
+
 ### 🛠️ Habilidades Técnicas
 - ![C](https://img.shields.io/badge/C-239120?style=flat-square&logo=c) Desarrollo de software de sistemas y aplicaciones de alto rendimiento.
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) Desarrollo de scripts y automatización.
