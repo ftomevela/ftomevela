@@ -35,7 +35,7 @@ El objetivo de este ideatón es impulsar la transformación digital y promover n
   - [Enlace al evento](https://enlace-al-evento.com)
 
 ### 🌍 Encuéntrame en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ftomevela/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ftomevela-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ftomevela/)
 
 
 
