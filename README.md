@@ -35,13 +35,8 @@ El objetivo de este ideatón es impulsar la transformación digital y promover n
   - [Enlace al evento](https://enlace-al-evento.com)
 
 ### 🌍 Encuéntrame en:
-- LinkedIn: [Francisco Tomé](https://www.linkedin.com/in/ftomevela/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ftomevela/)
 
-
-### 📌 Repositorios Destacados
-[![Repositorio 1](https://github-readme-stats.vercel.app/api/pin/?username=username&repo=proyecto1)](https://github.com/username/proyecto1)
-[![Repositorio 2](https://github-readme-stats.vercel.app/api/pin/?username=username&repo=proyecto2)](https://github.com/username/proyecto2)
-[![Repositorio 3](https://github-readme-stats.vercel.app/api/pin/?username=username&repo=proyecto3)](https://github.com/username/proyecto3)
 
 
 
